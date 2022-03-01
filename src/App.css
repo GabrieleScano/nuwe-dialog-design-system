@@ -8,3 +8,25 @@
   bottom: 20%;
   left: 35%;
 }
+
+
+@media (max-width: 600px) {
+  .App__button-group {
+    /* display: inline-grid; */
+    left: 26%;
+  }
+}
+
+@media (max-width: 800px) {
+  .App__button-group {
+    width: 50%;
+    left: 22%;
+  }
+}
+
+@media screen and (min-width: 1500px) {
+  .App__button-group {
+    width: 50%;
+    left: 24%;
+  }
+}
