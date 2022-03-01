@@ -38,12 +38,6 @@
   font-size: 32px;
   line-height: 40px;
   margin: 20px 0 0 0;
-
-  animation: fadeIn 0.2s;
-  -webkit-animation: fadeIn 0.2s;
-  -moz-animation: fadeIn 0.2s;
-  -o-animation: fadeIn 0.2s;
-  -ms-animation: fadeIn 0.2s;
 }
 
 .modal__body {
@@ -53,61 +47,10 @@
   font-weight: normal;
   font-size: 16px;
   line-height: 24px;
-
-  animation: fadeIn 0.2s;
-  -webkit-animation: fadeIn 0.2s;
-  -moz-animation: fadeIn 0.2s;
-  -o-animation: fadeIn 0.2s;
-  -ms-animation: fadeIn 0.2s;
 }
 
 .modal_footer {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-}
-
-@keyframes fadeIn {
-  0% {
-    opacity: 0;
-  }
-  100% {
-    opacity: 1;
-  }
-}
-
-@-moz-keyframes fadeIn {
-  0% {
-    opacity: 0;
-  }
-  100% {
-    opacity: 1;
-  }
-}
-
-@-webkit-keyframes fadeIn {
-  0% {
-    opacity: 0;
-  }
-  100% {
-    opacity: 1;
-  }
-}
-
-@-o-keyframes fadeIn {
-  0% {
-    opacity: 0;
-  }
-  100% {
-    opacity: 1;
-  }
-}
-
-@-ms-keyframes fadeIn {
-  0% {
-    opacity: 0;
-  }
-  100% {
-    opacity: 1;
-  }
 }
