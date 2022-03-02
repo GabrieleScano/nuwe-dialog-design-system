@@ -1,6 +1,6 @@
 # Dialog design system
 
-Frontend Challenge By [NUWE](nuwe.io) which consists in creating a design system.
+Frontend Challenge By [NUWE](https://nuwe.io) which consists in creating a design system.
 
 This is a project created with React with the purpose of being able to reuse components for the purpose proposed by the challange. Each dialogue modal receives different information, assets and styles.
 
@@ -8,7 +8,7 @@ You can use three different buttons to operate three different modals.
 
 ### Try the [Demo](https://nuwe-dialog-design-system.vercel.app/)
 
-<br/>
+
 
 ##### Made with:
 
